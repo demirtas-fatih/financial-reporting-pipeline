@@ -8,16 +8,16 @@ An end-to-end Python pipeline that **ingests** raw financial transaction data, *
 
 ## 📸 Report Preview
 
-![Executive Summary](screenshots/executive_summary.png)
+![Executive Summary](screenshot/executive_summary.png)
 *Executive Summary sheet — KPI banner + Monthly Budget vs Actual chart*
 
-![Department Analysis](screenshots/department_analysis.png)
+![Department Analysis](screenshot/department_analysis.png)
 *Department Analysis sheet — budget vs actual with ⚠️ Over Budget indicators*
 
-![Variance Chart](screenshots/variance_chart.png)
+![Variance Chart](screenshot/variance_chart.png)
 *Monthly Variance % chart — red = over budget, green = under budget*
 
-![Raw Data](screenshots/raw_data.png)
+![Raw Data](screenshot/raw_data.png)
 *Raw Data sheet — filterable transaction log with auto-filter*
 
 ---
